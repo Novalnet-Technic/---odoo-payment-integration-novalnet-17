@@ -1,0 +1,5 @@
+*** Changelog ***
+
+= 4.0.0   - 25.11.2024
+
+* New Release: Payment module built with improved seamless customer experience and brand configurations in the Novalnet Merchant Admin Portal to make it easier to preview and customise the checkout page
